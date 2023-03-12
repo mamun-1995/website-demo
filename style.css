@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:lightgoldenrodyellow;
+   margin: 5px;
+   padding: 5px;
+
+}
+header{
+    background-color:azure;
+    color: white;
+}
+.products{
+text-align: center;
+}
+.product-icon1{
+color: red;
+}
+.product-icon2{
+    color: green;
+}
+.product-icon3{
+    color: black;
+}
+.product-icon4{
+    color: blue;
+}
+
+.first,.second,.third,.fourth{
+   
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 1rem;
+
+}
+
+   
+
+.first:hover{
+    background-color: yellowgreen;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.second:hover{
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.third:hover{
+    background-color: chocolate;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.fourth:hover{
+    background-color: chartreuse;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+{
+    text-align: center;
+}
+.welcome{
+    text-align: center;
+    margin-top: 5px;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    color: 2px solid black;
+}
+.find{
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn:hover{
+    color: antiquewhite;
+    background-color: green;
+    font-size: large;
+    border-radius: 5px;
+}
+.mamun{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.para{
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bolder;
+}
+.customer{
+    text-align: center;
+}
+.customer-review{
+    background-color: aquamarine;
+}
+.cus-comment{
+    text-align: center;
+}
+h4{
+    font-size: 2rem;
+}
+
+.footer{
+    text-align: center;
+    background-color: dimgrey;
+    margin: 10px;
+    padding: 20px;
+}
+.footer-icon1{
+margin: 30px;
+}
+.footer-icon2{
+    margin: 30px;
+    }
+    .footer-icon3{
+        margin: 30px;
+        }
+  .footer-icon1:hover{
+    color: red;
+  } 
+  .footer-icon2:hover{
+    color: blue;
+  }    
+  .footer-icon3:hover{
+    color: coral;
+  } 
